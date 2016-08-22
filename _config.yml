@@ -1,4 +1,3 @@
-layout_spectrum: 0.3708962509408593
 typography_spectrum: 0.45263016945682466
 color:
   brandStrength: 0.8669647516217083
@@ -11,4 +10,6 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+layout_spectrum: 0.3708962509408593
 name: MEDIUS
+title: Visuaalisen suunnittelun toimisto MEDIUS
