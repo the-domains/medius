@@ -11,6 +11,10 @@ color:
     - '#EDB88B'
     - '#FAD8D6'
 layout_spectrum: 0.3708962509408593
+author:
+  name: Teemu Mäkinen
+  email: teemu@medius.ws
+  url: medius.ws
 name: MEDIUS
 title: Visuaalisen suunnittelun toimisto MEDIUS
 description: '- Luovia ratkaisuja markkinointiin - '
