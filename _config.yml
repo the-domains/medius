@@ -1,0 +1,14 @@
+layout_spectrum: 0.3708962509408593
+typography_spectrum: 0.45263016945682466
+color:
+  brandStrength: 0.8669647516217083
+  lightness: 0.3884043199941516
+  saturation: 0.04034203849732876
+  rhythmicContrast: 0.2383670846465975
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+name: MEDIUS
